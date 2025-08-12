@@ -94,6 +94,9 @@ console.log("MONGO_URI from env:", process.env.ATLASDB_URL);
 async function main() {
   await mongoose.connect(dbUrl);
 }
+app.get("/", (req, res) => {
+  res.redirect("/listings");
+});
 
 app.use("/listings", listingRouter);
 app.use("/listings/:id/reviews", reviewRouter);
