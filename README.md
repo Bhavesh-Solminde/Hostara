@@ -40,7 +40,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/hostara.git
+git clone (https://github.com/Bhavesh-Solminde/Hostara)
 cd hostara
 
 # Install dependencies
