@@ -54,7 +54,7 @@ node app.js
 ```
 ## 📸 Screenshots
 
-![Homepage UI](./screenshot.png)
+![Homepage UI](./public/screenshot.png)
 
 ---
 
