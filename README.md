@@ -52,7 +52,9 @@ cp .env.example .env  # then edit .env with your values
 # Run the app
 node app.js
 ```
-## 📸 Screenshots
+## 📸 Screenshot
+
+### 🏠 Homepage UI
 
 ![Homepage UI](./public/screenshot.png)
 
